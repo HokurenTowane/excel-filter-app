@@ -7,19 +7,23 @@ credentials:
     boss:
       email: boss@example.com
       name: Your Boss Name
-      password: $2b$12$YgkXdUZjf7HEFD7pYfK6o.BQcMrUDtXrk2AmTkLwz7flAxW.z/1jm
+      password: $2b$12$PYiyj863JhCW88Zlse4zROwzLoRapdMimGqNI7naXn1PUETbYtVS.
     enya:
       email: enya20101210@126.com
-      first_name: Enya
+      name: Enya
+      password: $2b$12$waIHwfhW1w93i.P8oC8RHej1pP0StzQ8aOtpE2P5L/8Fzdkly3c.W
+    enzo:
+      email: enya20101210@gmail.com
+      first_name: Enzo
       last_name: Zong
       logged_in: false
-      password: $2b$12$2hCl.X3xAzuAf6KeNegA9uuLIoSlxCv7pbUabiKEJZE64mtbQPKA6
-      password_hint: why did the chicken cross the road
+      password: $2b$12$6GYMkLw7rRp.iCkwixJVS.7Sp7sDTxeJIPbAdD/B8XC2GD62IZHlK
+      password_hint: '?'
       roles: null
     johndoe:
       email: john@example.com
       name: John Doe
-      password: $2b$12$SuYmq0BfzciyIcC863mTf.RL0UJ8EInGCC4RgsH0XWU2vwYKzCx6m
+      password: $2b$12$sVTARD1POlK9uuRcraDJwey67EygzJTN4KGe2zcGSx2hqcMnlbYxS
 preauthorized:
   emails:
   - melsby@example.com
